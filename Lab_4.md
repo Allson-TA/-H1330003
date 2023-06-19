@@ -12,7 +12,7 @@
 用Google找一張您認為最適合說明惡意軟體的圖片; 以及如何預防惡意軟體感染的圖片.<br>
 
 
-# 用Google找一張您認為最適合說明惡意軟體的圖片
+# 最適合說明惡意軟體的圖片
 ![惡意軟體](https://th.bing.com/th/id/R.cfc748be6d6827cc74698c2e37d47e46?rik=swgVyFQ1Qqqrbg&pid=ImgRaw&r=0)
 
 # 如何預防惡意軟體感染的圖片
