@@ -12,11 +12,11 @@
 用Google找一張您認為最適合說明惡意軟體的圖片; 以及如何預防惡意軟體感染的圖片.<br>
 
 # 用Google找一張您認為最適合說明惡意軟體的圖片
-![惡意軟體】(https://www.guapizhu.com/wp-content/uploads/2021/03/2021030507274159.gif)
+![惡意軟體](https://www.guapizhu.com/wp-content/uploads/2021/03/2021030507274159.gif)
 
 # 如何預防惡意軟體感染的圖片
-![預防惡意軟體】(https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/1.png)
-![預防惡意軟體】(https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/2.png)
-![預防惡意軟體】(https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/2.png)
-![預防惡意軟體】(https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/3.png)
+![預防惡意軟體](https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/1.png)
+![預防惡意軟體](https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/2.png)
+![預防惡意軟體](https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/2.png)
+![預防惡意軟體](https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/3.png)
 
