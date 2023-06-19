@@ -14,6 +14,7 @@
 
 # 最適合說明惡意軟體的圖片
 ![惡意軟體](https://th.bing.com/th/id/R.cfc748be6d6827cc74698c2e37d47e46?rik=swgVyFQ1Qqqrbg&pid=ImgRaw&r=0)
+![嘞所病毒](https://th.bing.com/th/id/R.510e14efacbc2433dd0bb8a6bb5c580b?rik=sNGCqaBrCSrO9g&riu=http%3a%2f%2fwww.itmop.com%2fupload%2f2017-5%2f14950904678560621.jpg&ehk=zLaYvKQtpWS214H5Qh%2f9qZTghapQshWV2WOjxqg0STI%3d&risl=&pid=ImgRaw&r=0)
 
 # 如何預防惡意軟體感染的圖片
 ![預防惡意軟體](https://www.tiri.narl.org.tw/InstTdy/234/0234044-web-resources/image/1.png)
