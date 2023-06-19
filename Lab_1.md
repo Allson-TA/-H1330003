@@ -9,7 +9,7 @@
 恢復能力和容災：建立備份和恢復策略，以應對數據丟失、系統故障或災難事件。
 網絡監測和威脅檢測：實施監測技術和工具，及時發現和應對網絡攻擊、惡意軟件和其他安全威脅。
 
-![網路安全]([[https://example.com/cat.jpg](https://www.google.com.tw/url?sa=i&url=https%3A%2F%2Fwww.informationsecurity.com.tw%2Farticle%2Farticle_detail.aspx%3Faid%3D9942&psig=AOvVaw3LGGOdb35Sfa5xbvEXa36M&ust=1687243653763000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiDm8fezv8CFQAAAAAdAAAAABAO)](https://www.informationsecurity.com.tw/upload/pic/70755.3981091.jpg))
+![網路安全](https://www.informationsecurity.com.tw/upload/pic/70755.3981091.jpg)
 
 
 # 2. 在生活或工作上，哪些類型的威脅是您最常見？
